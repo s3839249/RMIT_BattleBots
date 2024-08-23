@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RMIT_BattleBots")(type "KiCad")(uri "C:/Projects/RMIT_BattleBots/Library/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
